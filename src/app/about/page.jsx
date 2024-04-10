@@ -3,15 +3,15 @@ import Footer from "@/components/Footer/Footer";
 import "./About.css";
 
 export const metadata = {
-  title: "I'm Jane. I live in New York City, Where I develop the future.",
+  title: "I'm David V. I live in Salt Lake City, Where I am learning web development and cyber security skills.",
   paragraph1:
-    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
+    "I am orginally from Lima Peru. I moved to the states when I was twelve and resided in Los Angeles California. I have always been interested in technology and I have always wanted to learn how to code. When I server a mission in Tallahasee florida, I often used computers and search for ways to make my assignments easier using technolgy",
   paragraph2:
-    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
+    "Upon returning from my mission, I was not seeking a degree in technology. Instead I was pursuing a similar path my dad took which was obtaining a doctorate in pharmacy. But I decided not due to the large amount of debt I was going to drown on. But something that I enjoy the most is handling a computer. Since at a young agem I help my dad with entering information on a computer application that register user comsumption of medications",
   paragraph3:
-    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
+    "Looking back, I know that at some point computer can be taking over and automatize repetitive task and help other move onto other important work. Hence I took that knowlege and began to work in a IT world as a helpdesk representative. In that role, I learn to code 15-20 appplication that would help me complete 15-20 repetitice task. With my large IT security background and basic to intermediate code knowledge, I was able to out perform the best help desk. I left them in the dust. Now looking back, that motivate me to learn more about coding, cyber security to complete my goals and work assignment by following organization security policies.",
   paragraph4:
-    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
+    "As I am closing into graduation, have a Bachelor in Cyber Security from Ensign Collge. I gain a desire to use my programming skills and information techology knowledge to seek a job in the cyber security field. I am also looking to work in the web development field as a penetration tester to secure code from malicious user. However, I am not going to stop with my education, since seeking a Master Degree is in the back of my mind. But now, I can begin a new start in the security and web development field. I am looking forward to the new challenges and the new opportunities that will come my way.",
 };
 
 export default function About() {
@@ -39,7 +39,7 @@ export default function About() {
           <img src="about.jpeg" alt="Profile Picture" className="picture" />
         </div>
         <div className="socials">
-          <a href="https://www.twitter.com/janedoe">
+          <a href="https://www.twitter.com/">
             <svg
               width="20"
               height="20"
@@ -55,7 +55,7 @@ export default function About() {
             </svg>{" "}
             Follow me on X
           </a>
-          <a href="https://www.github.com/janedoe">
+          <a href="https://github.com/dvdman67">
             <svg
               width="20"
               height="20"
@@ -73,7 +73,7 @@ export default function About() {
             </svg>{" "}
             Follow me on GitHub
           </a>
-          <a href="https://www.linkedin.com/in/jane-doe">
+          <a href="https://www.linkedin.com/in/david-v-7055b827a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1HPx1%2FAtTDWnRBEdcM5i0A%3D%3D">
             <svg
               width="18"
               height="18"
@@ -91,7 +91,7 @@ export default function About() {
           </a>
         </div>
         <div className="email">
-          <a href="mailto:jhondo@gmail.com" id="email-a">
+          <a href="mailto:dadolfovl@gmail.com" id="email-a">
             <svg
               width="22"
               height="18"

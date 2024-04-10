@@ -5,39 +5,44 @@ import Project from "@/components/Project/Project";
 import "./Projects.css";
 
 export const metadata = {
-  title: "Things I’ve made trying to put my dent in the universe.",
+  title: "These are a collection of accomplishement in School and/or Professional world.",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
+    "You will see the accomplishement and recognition that I obtained through my journey as a student, helped generalist, specialist and Supervisor.",
   projects: [
     {
-      company: "Company",
-      description: "Creating technology to empower civilians to explore space on their own terms.",
-      link: "https://company.com",
+      company: "Ensign College",
+      description:
+        "Create a Home Cyber Lab. This lab is used to test and learn about different cyber security tools and techniques to keep an organization safe.",
+      link: "https://www.ensign.edu/",
     },
     {
-      company: "Company",
-      description: "Creating technology to empower civilians to explore space on their own terms.",
-      link: "https://company.com",
+      company: "Ensign College",
+      description:
+        "Documented my journey to obtained Root privileges in virtualizae environment of a enterprise organization.",
+      link: "https://www.ensign.edu/",
     },
     {
-      company: "Company",
-      description: "Creating technology to empower civilians to explore space on their own terms.",
-      link: "https://company.com",
+      company: "Ensign College",
+      description:
+        "Created a log Environment to alert me of malicious attacks that can harm a network or organization.",
+      link: "https://www.ensign.edu/",
     },
     {
-      company: "Company",
-      description: "Creating technology to empower civilians to explore space on their own terms.",
-      link: "https://company.com",
+      company: "Global Service Department",
+      description: "Automatize 15 repetitive task to out perform best representative in the floor.",
+      link: "https://www.churchofjesuschrist.org/?lang=eng",
     },
     {
-      company: "Company",
-      description: "Creating technology to empower civilians to explore space on their own terms.",
-      link: "https://company.com",
+      company: "Global Service Department",
+      description:
+        "Perform regular Access Control audits to ensure employees have access to what they need. Also to Idenitfy other areas of work that can be taken on",
+      link: "https://www.churchofjesuschrist.org/?lang=eng",
     },
     {
-      company: "Company",
-      description: "Creating technology to empower civilians to explore space on their own terms.",
-      link: "https://company.com",
+      company: "Global Service Department",
+      description:
+        "Audit and improve the onboarding process of new hires to ensure better performace as they transition to indepence of their work.",
+      link: "https://www.churchofjesuschrist.org/?lang=eng",
     },
   ],
 };

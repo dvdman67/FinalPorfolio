@@ -9,7 +9,7 @@ const UsesSection = () => {
   const intro = {
     title: "Software I use, gadgets I love, and other things I recommend.",
     introduction:
-      "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.",
+      "In this article, You will come to learn the software that I prefer to use. You will also see the harware that I use to make my work more efficient and effective. I hope you find this information helpful and that you can use it to improve your work environment as well",
   };
 
   const items = [
